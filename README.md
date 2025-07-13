@@ -11,6 +11,14 @@ This project applies **Market Basket Analysis** techniques to a retail dataset, 
 
 ---
 
+## 🔗 Live Notebook View (nbviewer)
+
+GitHub may not render large HTML files directly, so here's a live version of the notebook:
+
+👉 [View Market Basket Analysis (HTML) on nbviewer](https://nbviewer.org/github/Ubed-982/Market-Basket-Analysis/blob/main/Market%20Basket%20Analysis.html)
+
+---
+
 ## 📌 Problem Statement
 
 To extract meaningful association rules efficiently from large-scale transaction data. The focus is on identifying **frequent itemsets** and generating **robust rules** that can help inform business decisions, specifically by analyzing purchase behaviors in different countries.
