@@ -8,7 +8,6 @@ This project explores Market Basket Analysis on retail transactional data from t
 
 | File | Description |
 |------|-------------|
-| `Market Basket Analysis.ipynb` | Jupyter Notebook with full implementation |
 | `Market Basket Analysis.html` | Rendered version of the notebook (view via nbviewer link below) |
 
 🔗 **View Notebook Online (if GitHub can't render HTML):**  
