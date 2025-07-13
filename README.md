@@ -84,7 +84,7 @@ FP-Growth consistently outperformed Apriori, especially on larger datasets, due 
 
 For questions or collaboration:
 **Ubed Ullah**   
-[GitHub Profile](https://github.com/Ubed-982) | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ubedullah)
+[GitHub Profile](https://github.com/Ubed-982) | [LinkedIn](https://www.linkedin.com/in/ubedullah)
 
 ---
 
