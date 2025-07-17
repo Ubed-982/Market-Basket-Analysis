@@ -6,9 +6,11 @@ This project explores Market Basket Analysis on retail transactional data from t
 
 ## 📂 Files
 
-| File | Description |
-|------|-------------|
-| `Market Basket Analysis.html` | Rendered version of the notebook (view via nbviewer link below) |
+| File                           | Description                                                     |
+| ------------------------------ | --------------------------------------------------------------- |
+| `Market Basket Analysis.html`  | Rendered version of the notebook (view via nbviewer link below) |
+| `Market_Basket_Dashboard.pbix` | Power BI report (interactive dashboard with map & filters)      |
+
 
 🔗 **View Notebook Online (if GitHub can't render HTML):**  
 👉 [View HTML notebook on nbviewer](https://nbviewer.org/github/Ubed-982/Market-Basket-Analysis/blob/main/Market%20Basket%20Analysis.html)
