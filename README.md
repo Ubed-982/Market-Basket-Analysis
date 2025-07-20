@@ -3,13 +3,12 @@
 This project explores Market Basket Analysis on retail transactional data from the United Kingdom, Germany, and France. It applies **Apriori** and **FP-Growth** algorithms to extract frequent itemsets and generate association rules, using Python and Spark MLlib.
 
 ---
-
 ## 📂 Files
 
 | File                           | Description                                                     |
 | ------------------------------ | --------------------------------------------------------------- |
 | `Market Basket Analysis.html`  | Rendered version of the notebook (view via nbviewer link below) |
-
+| `Market Basket Analysis.ipynb` | Jupyter Notebook with code, visualizations, and full analysis   |
 
 
 🔗 **View Notebook Online (if GitHub can't render HTML):**  
